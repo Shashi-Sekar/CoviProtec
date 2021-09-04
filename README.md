@@ -11,4 +11,6 @@ Features on the people side : We allow them to register for a vaccine. We also p
 Features on the Hospital side : They can register to become legally entitled to provide vaccinations to the patients. They can also update stock available each time a new stock arrives. They can view the total number of covaxin and covishield available. They can also set the number of vaccinations possible per day according to their convenience. They can view the people who have scheduled an appointment for vaccine at their place on a given date.
 
 
-Plaese refer Wiki for the design document with ER diagram. 
+Please refer CoviProtec Design Document that includes ER diagram. 
+
+Website: https://coviprotec.herokuapp.com/
